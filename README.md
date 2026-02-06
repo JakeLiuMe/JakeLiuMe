@@ -1,92 +1,149 @@
-# Hi, I'm Jake 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jake+%F0%9F%91%8B;Building+AI-powered+tools;Making+live+commerce+smarter" alt="Typing SVG" />
+  </a>
+</h1>
 
-### 📍 New York City | 🤖 AI-Native Builder | 📈 Quant Developer
-
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Claude%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenClaw-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiPjwvdGV4dD48L3N2Zz4=&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<p align="center">
+  <strong>Builder. Shipper. AI-native engineer.</strong><br/>
+  Chrome extensions • Quant trading • Agentic systems
 </p>
 
-Building at the intersection of **AI**, **automation**, and **quantitative systems**. I ship tools that make money, save time, and work while I sleep.
-
-Deep in agentic engineering — orchestrating AI agents across machines to build, monitor, and deploy software autonomously. Currently building with [OpenClaw](https://github.com/openclaw/openclaw).
-
----
-
-## 🚀 Current Projects
-
-💬 **[BuzzChat](https://github.com/JakeLiuMe/BuzzChat)** — AI-powered chat automation for live selling platforms. Chrome extension with auto-welcome, timed promotions, FAQ auto-replies, giveaway tracking, analytics, and **AI-generated responses** — the only tool in the space with this. Supports Whatnot, YouTube, eBay, Twitch & Kick. 220+ automated tests.
-
-📈 **QuantOptions** — Quantitative options trading system. Real-time data pipelines, multi-component signal generation, backtesting framework, and automated execution engine. Python + Node.js. *(Private)*
-
-🤖 **Wilson & Jarvis** — Multi-machine AI agent system using [OpenClaw](https://github.com/openclaw/openclaw). Wilson (Windows) and Jarvis (Mac Mini) coordinate tasks, monitor systems, and ship code — accessible from anywhere via Discord. Live Mission Control dashboard for real-time agent visibility.
-
-🖥️ **Mission Control** — Real-time task dashboard for AI agent workflows. Kanban board, activity feed, drag-drop, search, keyboard shortcuts. Deployed 24/7 on Hetzner Cloud with PM2 process management.
-
-✍️ **MyPersonalWriter** — AI writing assistant for content creation and editing workflows. *(Private)*
+<p align="center">
+  <a href="https://github.com/JakeLiuMe?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-5+-blue?style=for-the-badge" alt="Projects"/>
+  </a>
+  <a href="https://github.com/JakeLiuMe/BuzzChat">
+    <img src="https://img.shields.io/badge/🐝_BuzzChat-Live-success?style=for-the-badge" alt="BuzzChat"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ What I'm Building
+## 🚀 Featured Projects
 
-- 🧠 **AI agent orchestration** — Multi-agent workflows across machines, coordinated through Discord and web dashboards
-- 🔌 **Chrome extensions** — Manifest V3, 220+ Playwright tests, CI/CD with GitHub Actions, AI-powered features
-- 📊 **Quantitative trading** — Options pricing models, signal processing, automated execution pipelines
-- 🛠️ **Developer tooling** — AI-powered auto-fix workflows, security auditing, deployment automation
+<table>
+<tr>
+<td width="50%">
 
----
+### [🐝 BuzzChat](https://github.com/JakeLiuMe/BuzzChat)
+**AI-powered live selling automation**
 
-## 🔧 Tech Stack
+Auto-welcome buyers, answer FAQs, track inventory, generate summaries. Works on TikTok, Facebook, Instagram, YouTube, Whatnot.
 
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript · TypeScript · Python · SQL · PowerShell · Bash |
-| **Backend** | Node.js · Express · REST APIs · WebSocket |
-| **Frontend** | React · Chrome Extension APIs (Manifest V3) · HTML · CSS |
-| **AI / Agents** | Claude (Anthropic) · GPT · Prompt Engineering · OpenClaw · MCP Protocol |
-| **Data & Trading** | Pandas · NumPy · Real-time Market Data · Options Analytics |
-| **DevOps** | GitHub Actions · Docker · PM2 · Nginx · Hetzner Cloud · SSH |
-| **Testing** | Playwright (220+ tests) · Automated CI Pipelines |
+`AI` `Chrome Extension` `Live Commerce` `Claude AI`
 
----
+[![BuzzChat](https://img.shields.io/github/stars/JakeLiuMe/BuzzChat?style=social)](https://github.com/JakeLiuMe/BuzzChat)
 
-## 🤖 GitHub Automation
+</td>
+<td width="50%">
 
-All my repos ship with production-grade CI/CD:
+### [📜 TabScrollPro](https://github.com/JakeLiuMe/TabScrollPro)
+**Mouse wheel tab scrolling for Chrome**
 
-- 🧠 **AI Auto-Fix** — Comment `/autofix` on any issue → Claude analyzes the codebase → opens a draft PR with a fix
-- 🔄 **Auto-Maintenance** — Weekly dependency updates, stale issue management, security scanning
-- ✅ **220+ Tests** — Full Playwright test suite running on every PR
-- 🔒 **Security Auditing** — Automated `npm audit`, credential scanning, dependency review
+Chrome removed it. Reddit complained. I built it back. 100k+ potential users waiting.
+
+`Chrome Extension` `Productivity` `Manifest V3`
+
+[![TabScrollPro](https://img.shields.io/github/stars/JakeLiuMe/TabScrollPro?style=social)](https://github.com/JakeLiuMe/TabScrollPro)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [💾 SessionSnap](https://github.com/JakeLiuMe/SessionSnap)
+**One-click tab session manager**
+
+Save, restore, export sessions. Never lose your tabs again. Privacy-first, local storage only.
+
+`Chrome Extension` `Productivity` `Tab Management`
+
+[![SessionSnap](https://img.shields.io/github/stars/JakeLiuMe/SessionSnap?style=social)](https://github.com/JakeLiuMe/SessionSnap)
+
+</td>
+<td width="50%">
+
+### [📋 ClipStash](https://github.com/JakeLiuMe/ClipStash)
+**Clipboard history manager**
+
+Never lose a copy again. Auto-capture, search, pin important clips. Type detection for URLs, code, emails.
+
+`Chrome Extension` `Productivity` `Privacy-First`
+
+[![ClipStash](https://img.shields.io/github/stars/JakeLiuMe/ClipStash?style=social)](https://github.com/JakeLiuMe/ClipStash)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💡 Philosophy
 
-> **"Ship it, then improve it."** — Build tools that solve your own problems, automate the tedious, and let AI handle the rest.
+```
+while (problem_exists) {
+    ship_solution();
+    iterate_fast();
+    help_people();
+}
+```
 
-We're in the early days of **agentic engineering** — where AI agents don't just assist, they *do*. I'm building the infrastructure to make that real: agents that code, deploy, monitor, and iterate autonomously.
+- **Ship > Perfect** — A working product beats a perfect plan
+- **Solve real pain** — If Reddit complains about it, build the fix
+- **AI-native** — Use AI to amplify, not replace human creativity
+- **Open source** — Share what works, learn from others
 
 ---
 
-## 📫 Connect
+## 🛠️ Tech Stack
 
-<p>
-  <a href="https://linkedin.com/in/jakeliu"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jake@jakeliu.me"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="http://jakeliu.me"><img src="https://img.shields.io/badge/-jakeliu.me-000000?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="https://github.com/JakeLiuMe"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,tailwind,chrome,vscode,git" />
+</p>
+
+| Area | Technologies |
+|------|--------------|
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | React, TailwindCSS, Chrome Extensions |
+| **Backend** | Node.js, Express, Fastify |
+| **AI/ML** | Claude, GPT, Haiku, local LLMs |
+| **Trading** | QuantConnect, backtrader, custom algos |
+| **Infra** | Vercel, Railway, Cloudflare |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JakeLiuMe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeLiuMe&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeLiuMe&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🐝 **BuzzChat** — Making it 10/10 for live sellers
+- 📈 **API-first products** — Building tools that AI agents will pay to use
+- 🤖 **Agentic engineering** — Autonomous AI systems that actually work
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/JakeLiuMe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The best code is the code that ships."</i>
 </p>
