@@ -1,33 +1,17 @@
-# Hi, I'm Jake 👋
+# Jake Liu
 
-📍 New York City | 🛠️ Building tools for AI agents | ⚡ Ship fast, iterate faster
+Universal Banker at Citi in New York · MBA · native English and Mandarin.
 
-TypeScript · Node.js · Playwright · Chrome Extensions · MCP · Stripe
+I build software by directing AI coding agents (Claude Code, Codex).
 
----
+**Website:** [jakeliu.me](https://jakeliu.me) · **Email:** Jake@JakeLiu.me · **LinkedIn:** [linkedin.com/in/jakeliu-me](https://www.linkedin.com/in/jakeliu-me)
 
-### Current Projects
+### Projects
 
-🌐 **[WebPeel](https://github.com/JakeLiuMe/webpeel)** — Smart web fetcher for AI agents. Auto-escalates from HTTP to headless browser. MCP server, CLI, and hosted API. ([webpeel.dev](https://webpeel.dev))
+- **WebPeel** (Feb–Mar 2026, retired): a command-line tool, API and MCP server that turns web pages into clean text for AI agents. 195 npm releases in six weeks.
 
-🐝 **[VoltBee](https://voltbee.dev)** — Universal licensing and payments API for software products. Browser extensions, VS Code, Discord bots, desktop apps — one API for all of them.
+### Older side projects
 
-🗣️ **BuzzChat** — AI-powered live selling automation. Auto-welcome, FAQ answers, inventory tracking for TikTok/Facebook/YouTube live streams.
+Chrome extensions: [TabScrollPro](https://github.com/JakeLiuMe/TabScrollPro), [SessionSnap](https://github.com/JakeLiuMe/SessionSnap), [ClipStash](https://github.com/JakeLiuMe/ClipStash).
 
-### Chrome Extensions
-
-📜 **[TabScrollPro](https://github.com/JakeLiuMe/TabScrollPro)** — Mouse wheel tab scrolling. Chrome removed it, Reddit complained, I built it back.
-
-💾 **[SessionSnap](https://github.com/JakeLiuMe/SessionSnap)** — Save and restore browser tab sessions. Privacy-first, local storage only.
-
-📋 **[ClipStash](https://github.com/JakeLiuMe/ClipStash)** — Clipboard history with search, pinning, and type detection.
-
-### What I'm Doing
-
-Building AI-native developer tools. WebPeel is my answer to the $16/month web fetchers that lock you in — ours is free, open source, and runs locally. VoltBee handles the boring parts of selling software so developers can focus on building.
-
-I believe the best tools are the ones AI agents choose to use themselves.
-
-### Connect
-
-[𝕏 Twitter](https://twitter.com/JakeLiuMe) · [webpeel.dev](https://webpeel.dev) · [voltbee.dev](https://voltbee.dev)
+<sub>Views are my own, not my employer's.</sub>
